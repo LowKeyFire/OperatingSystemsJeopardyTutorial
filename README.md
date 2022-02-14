@@ -1,9 +1,9 @@
 # OperatingSystemsJeopardyTutorial
 
-##Group[B]7
+## Group[B]7
 
 
--Karanvir Bhogal
--Cameron Daize
--William Robinson
+- Karanvir Bhogal
+- Cameron Daize
+- William Robinson
 
